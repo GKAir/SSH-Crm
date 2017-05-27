@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4其他包(7)/spring-web-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4四加二/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4四加二/spring-core-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4其他包(7)/spring-aop-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4四加二/spring-expression-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4其他包(7)/spring-tx-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4四加二/com.springsource.org.apache.log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4其他包(7)/spring-jdbc-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4其他包(7)/spring-aspects-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4其他包(7)/spring-orm-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4四加二/spring-context-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4四加二/spring-beans-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/Spring4.2.4其他包(7)/spring-test-4.2.4.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/其他包(5)/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/其他包(5)/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/其他包(5)/com.springsource.org.aopalliance-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../SSHJar包/其他包(5)/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

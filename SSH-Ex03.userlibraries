@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Hibernate">
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/antlr-2.7.7.jar" />
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/dom4j-1.6.1.jar" />
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/geronimo-jta_1.1_spec-1.1.1.jar" />
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/hibernate-commons-annotations-5.0.1.Final.jar" />
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/hibernate-core-5.0.7.Final.jar" />
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/hibernate-jpa-2.1-api-1.0.0.Final.jar" />
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/jandex-2.0.0.Final.jar" />
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/javassist-3.18.1-GA.jar" />
+    <archive path="E:/Java/SSHJar包/Hibernate5.0.7基础包(9)/jboss-logging-3.3.0.Final.jar" />
+  </library>
+  <library name="Spring">
+    <archive path="E:/Java/SSHJar包/Spring4.2.4其他包(7)/spring-web-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4四加二/com.springsource.org.apache.commons.logging-1.1.1.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4四加二/spring-core-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4其他包(7)/spring-aop-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4四加二/spring-expression-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4其他包(7)/spring-tx-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4四加二/com.springsource.org.apache.log4j-1.2.15.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4其他包(7)/spring-jdbc-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4其他包(7)/spring-aspects-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4其他包(7)/spring-orm-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4四加二/spring-context-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4四加二/spring-beans-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/Spring4.2.4其他包(7)/spring-test-4.2.4.RELEASE.jar" />
+    <archive path="E:/Java/SSHJar包/其他包(5)/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar" />
+    <archive path="E:/Java/SSHJar包/其他包(5)/com.springsource.javax.servlet.jsp.jstl-1.1.2.jar" />
+    <archive path="E:/Java/SSHJar包/其他包(5)/com.springsource.org.aopalliance-1.0.0.jar" />
+    <archive path="E:/Java/SSHJar包/其他包(5)/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar" />
+  </library>
+  <library name="Struts 2">
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/xwork-core-2.3.32.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/log4j-api-2.3.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/freemarker-2.3.22.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/ognl-3.0.19.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/struts2-core-2.3.32.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/asm-commons-3.3.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/commons-io-2.2.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/asm-3.3.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/struts2-spring-plugin-2.3.32.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/asm-tree-3.3.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/commons-fileupload-1.3.2.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/commons-lang3-3.2.jar" />
+    <archive path="E:/Java/SSHJar包/struts2基础包(13)/log4j-core-2.3.jar" />
+  </library>
+</eclipse-userlibraries>
+
